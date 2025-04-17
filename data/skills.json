@@ -1,47 +1,41 @@
 [
-  {
-    "name": "Python",
-    "level": "Advanced",
-    "percent": 90
-  },
-  {
-    "name": "SQL",
-    "level": "Advanced",
-    "percent": 85
-  },
-  {
-    "name": "Pandas & Numpy",
-    "level": "Advanced",
-    "percent": 85
-  },
-  {
-    "name": "Scikit-learn",
-    "level": "Advanced",
-    "percent": 80
-  },
-  {
-    "name": "Power BI / Tableau",
-    "level": "Intermediate",
-    "percent": 70
-  },
-  {
-    "name": "Machine Learning",
-    "level": "Intermediate",
-    "percent": 75
-  },
-  {
-    "name": "Deep Learning",
-    "level": "Intermediate",
-    "percent": 65
-  },
-  {
-    "name": "React, JS, HTML, CSS",
-    "level": "Intermediate",
-    "percent": 70
-  },
-  {
-    "name": "APIs & REST",
-    "level": "Intermediate",
-    "percent": 65
-  }
+  { "name": "Python", "category": "Programming Languages" },
+  { "name": "C#", "category": "Programming Languages" },
+  { "name": ".NET", "category": "Programming Languages" },
+  { "name": "SQL", "category": "Programming Languages" },
+  { "name": "Bash", "category": "Programming Languages" },
+
+  { "name": "NumPy", "category": "Data Science and ML" },
+  { "name": "Pandas", "category": "Data Science and ML" },
+  { "name": "Scikit-learn", "category": "Data Science and ML" },
+  { "name": "TensorFlow", "category": "Data Science and ML" }, 
+  { "name": "Power BI", "category": "Data Science and ML" },
+  { "name": "Tableau", "category": "Data Science and ML" },
+  { "name": "Matplotlib", "category": "Data Science and ML" },
+  { "name": "Seaborn", "category": "Data Science and ML" },
+  
+  { "name": "Terraform", "category": "DevOps & CI/CD" },
+  { "name": "Jenkins", "category": "DevOps & CI/CD" },
+  { "name": "GitHub Actions", "category": "DevOps & CI/CD" },
+  { "name": "Git", "category": "DevOps & CI/CD" },
+  { "name": "Visual Studio", "category": "DevOps & CI/CD" }, 
+
+
+  { "name": "Apache Spark (PySpark)", "category": "Cloud & Big Data" },
+  { "name": "Kubernetes", "category": "Cloud & Big Data" },
+  { "name": "Docker", "category": "Cloud & Big Data" },
+  { "name": "Azure", "category": "Cloud & Big Data" },
+  { "name": "GCP", "category": "Cloud & Big Data" },
+  { "name": "Hadoop", "category": "Cloud & Big Data" },
+
+
+  { "name": "MS-SQL", "category": "Databases" }, 
+  { "name": "Data Lakes", "category": "Databases" }, 
+  { "name": "Cassandra", "category": "Databases" },
+  { "name": "MySQL Workbench", "category": "Databases" }, 
+
+
+  { "name": "AZ-900 Microsoft Azure Fundamentals", "category": "Certifications" }, 
+  { "name": "Google Cloud Architecting", "category": "Certifications" }, 
+  { "name": "IBM Python for Data Science", "category": "Certifications" }
 ]

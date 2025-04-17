@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Python",
+    "level": "Advanced",
+    "percent": 90
+  },
+  {
+    "name": "SQL",
+    "level": "Advanced",
+    "percent": 85
+  },
+  {
+    "name": "Pandas & Numpy",
+    "level": "Advanced",
+    "percent": 85
+  },
+  {
+    "name": "Scikit-learn",
+    "level": "Advanced",
+    "percent": 80
+  },
+  {
+    "name": "Power BI / Tableau",
+    "level": "Intermediate",
+    "percent": 70
+  },
+  {
+    "name": "Machine Learning",
+    "level": "Intermediate",
+    "percent": 75
+  },
+  {
+    "name": "Deep Learning",
+    "level": "Intermediate",
+    "percent": 65
+  },
+  {
+    "name": "React, JS, HTML, CSS",
+    "level": "Intermediate",
+    "percent": 70
+  },
+  {
+    "name": "APIs & REST",
+    "level": "Intermediate",
+    "percent": 65
+  }
+]

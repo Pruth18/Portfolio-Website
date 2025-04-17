@@ -1,0 +1,25 @@
+[
+  {
+    "title": "Telco Customer Churn Prediction",
+    "tech": ["Python", "Pandas", "Scikit-learn", "SHAP", "Streamlit", "REST API"],
+    "description": "A production-ready, end-to-end pipeline for predicting customer churn using the Telco Customer Churn dataset. Features advanced feature engineering, robust modeling, model explainability with SHAP, customer segmentation, a REST API, and an interactive Streamlit dashboard.",
+    "links": [
+      {"label": "GitHub Repo", "url": "https://github.com/Pruth18/Churn_Prediction/tree/main/Customer%20Churn%20Prediction%20Project"},
+      {"label": "Streamlit Dashboard", "url": "https://share.streamlit.io/your-github/telco-churn-prediction"}
+    ]
+  },
+  {
+    "title": "Geo Wake (Expo App)",
+    "tech": ["React Native", "Expo", "JavaScript", "Geo Utils"],
+    "description": "A geo-location based alarm app built with Expo. Set alarms that trigger when you reach a location, not just a time. Built using React Native, JS, and geo utilities.",
+    "links": [
+      {"label": "GitHub Repo", "url": "https://github.com/Pruth18/GeoWake"}
+    ]
+  },
+  {
+    "title": "Coming Soon",
+    "tech": ["Data Science", "Machine Learning"],
+    "description": "More impactful projects are on the way! Stay tuned.",
+    "links": []
+  }
+]

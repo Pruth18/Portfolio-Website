@@ -38,7 +38,7 @@ export default function Home() {
           transition={{ delay: 3, duration: 2 }}
           className="text-2xl text-center max-w-3xl mb-8"
         >
-          A passionate Data Scientist turning complex data into meaningful insights.
+          Data-driven Software Engineer building a future in Data Science and Analytics.
         </motion.p>
         <motion.div
           initial={{ scale: 0.8 }}

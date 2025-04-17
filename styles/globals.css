@@ -1,8 +1,16 @@
+/* styles/globals.css */
+
+/* REQUIRED Tailwind directives - KEEP THESE */
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* Custom styles for flippable avatar */
+/* NEW: Add this rule for smooth anchor scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* KEEP Your existing custom styles for flippable avatar */
 .perspective {
   perspective: 1200px;
 }
@@ -15,3 +23,11 @@
 .hover\:rotate-y-180:hover {
   transform: rotateY(180deg);
 }
+
+/* Optional: Only add body styles if needed and not handled elsewhere */
+/* 
+body {
+  background-color: #111827; 
+  color: white;
+} 
+*/
